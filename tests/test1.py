@@ -38,7 +38,6 @@ for i in range(1,10000):
 print(budget.sum_year("2021"))
 print(budget.sum_type(1,1))
 dict = budget.summarize()
-# pprint(dict)
 # save data in csv
 budget.tally.to_csv("data/budget.csv", index=False)
 
