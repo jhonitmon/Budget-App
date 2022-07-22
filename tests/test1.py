@@ -1,5 +1,13 @@
+# importing sys
+import sys
+
+# adding lib to PATH
+sys.path.insert(0,"/Users/jonathan/Documents/Python Projects/Budget-App/lib")
+
+# importing other libs
 from datetime import datetime
-import budget 
+import pandas as pd
+import budget
 import random as rand
 from random import randrange
 from datetime import timedelta
@@ -11,8 +19,6 @@ def random_date(start, end):
     int_delta = (delta.days * 24 * 60 * 60) + delta.seconds
     random_second = randrange(int_delta)
     return start + timedelta(seconds=random_second)
-
-
 
 budget = budget.Budget()
 
@@ -32,7 +38,7 @@ for i in range(1,10000):
 print(budget.sum_year("2021"))
 print(budget.sum_type(1,1))
 dict = budget.summarize()
-
+# pprint(dict)
 # save data in csv
 budget.tally.to_csv("data/budget.csv", index=False)
 

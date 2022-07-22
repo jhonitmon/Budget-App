@@ -1,7 +1,6 @@
 # library imports
 from datetime import datetime
-import pandas as pd
-import budget 
+import lib.budget as budget 
 import random as rand
 from random import randrange
 from datetime import timedelta
