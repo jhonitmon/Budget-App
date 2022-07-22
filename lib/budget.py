@@ -250,7 +250,7 @@ class Budget:
             avg_m_i = year_incomes.amount.sum() / n_months
             avg_m_e = year_expenses.amount.sum() / n_months
             month_list = year_df[["date","amount"]]
-            month_list.is_copy = False
+        
             month_list["month"] = month_list.date.dt.month
             month_group = month_list.groupby("month",as_index=False).sum()
             for j in range(1,n_months + 1):
