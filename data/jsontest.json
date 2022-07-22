@@ -1,1793 +1,1793 @@
 {
     "2000": {
-        "max_i": 9960.0,
-        "max_e": -9997.0,
-        "avg_d_i": 3077.42,
-        "avg_d_e": -3308.8,
-        "avg_d_t": -231.38,
-        "avg_m_i": 93604.83,
-        "avg_m_e": -100642.58,
-        "avg_m_t": -7037.75,
-        "i_year": 1123258.0,
-        "e_year": -1207711.0,
-        "total": -84453.0,
+        "max_i": 9772.0,
+        "max_e": -9918.0,
+        "avg_d_i": 2855.76,
+        "avg_d_e": -3280.43,
+        "avg_d_t": -424.67,
+        "avg_m_i": 86862.83,
+        "avg_m_e": -99779.83,
+        "avg_m_t": -12917.0,
+        "i_year": 1042354.0,
+        "e_year": -1197358.0,
+        "total": -155004.0,
         "max_i_type": "Other",
-        "max_e_type": "Subscriptions",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_e_type": "Health Insurance",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2001": {
-        "max_i": 9979.0,
-        "max_e": -9982.0,
-        "avg_d_i": 3251.45,
-        "avg_d_e": -2605.59,
-        "avg_d_t": 645.85,
-        "avg_m_i": 98898.17,
-        "avg_m_e": -79253.5,
-        "avg_m_t": 19644.67,
-        "i_year": 1186778.0,
-        "e_year": -951042.0,
-        "total": 235736.0,
+        "max_i": 9927.0,
+        "max_e": -9948.0,
+        "avg_d_i": 2957.46,
+        "avg_d_e": -3174.51,
+        "avg_d_t": -217.05,
+        "avg_m_i": 89956.0,
+        "avg_m_e": -96558.08,
+        "avg_m_t": -6602.08,
+        "i_year": 1079472.0,
+        "e_year": -1158697.0,
+        "total": -79225.0,
         "max_i_type": "Salary",
-        "max_e_type": "Health Insurance",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_e_type": "Investments",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2002": {
-        "max_i": 9957.0,
-        "max_e": -9982.0,
-        "avg_d_i": 2796.25,
-        "avg_d_e": -3063.31,
-        "avg_d_t": -267.06,
-        "avg_m_i": 85052.58,
-        "avg_m_e": -93175.58,
-        "avg_m_t": -8123.0,
-        "i_year": 1020631.0,
-        "e_year": -1118107.0,
-        "total": -97476.0,
+        "max_i": 9996.0,
+        "max_e": -9935.0,
+        "avg_d_i": 3031.33,
+        "avg_d_e": -3128.15,
+        "avg_d_t": -96.81,
+        "avg_m_i": 92203.08,
+        "avg_m_e": -95147.75,
+        "avg_m_t": -2944.67,
+        "i_year": 1106437.0,
+        "e_year": -1141773.0,
+        "total": -35336.0,
         "max_i_type": "Salary",
-        "max_e_type": "Health Insurance",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_e_type": "Food",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2003": {
-        "max_i": 9948.0,
-        "max_e": -9954.0,
-        "avg_d_i": 2892.04,
-        "avg_d_e": -2893.56,
-        "avg_d_t": -1.53,
-        "avg_m_i": 87966.08,
-        "avg_m_e": -88012.5,
-        "avg_m_t": -46.42,
-        "i_year": 1055593.0,
-        "e_year": -1056150.0,
-        "total": -557.0,
-        "max_i_type": "Salary",
-        "max_e_type": "Leisure",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9994.0,
+        "max_e": -9929.0,
+        "avg_d_i": 2927.75,
+        "avg_d_e": -3299.11,
+        "avg_d_t": -371.36,
+        "avg_m_i": 89052.42,
+        "avg_m_e": -100348.0,
+        "avg_m_t": -11295.58,
+        "i_year": 1068629.0,
+        "e_year": -1204176.0,
+        "total": -135547.0,
+        "max_i_type": "Tips",
+        "max_e_type": "Food",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2004": {
-        "max_i": 9952.0,
-        "max_e": -9997.0,
-        "avg_d_i": 3084.44,
-        "avg_d_e": -3122.91,
-        "avg_d_t": -38.47,
-        "avg_m_i": 93818.42,
-        "avg_m_e": -94988.42,
-        "avg_m_t": -1170.0,
-        "i_year": 1125821.0,
-        "e_year": -1139861.0,
-        "total": -14040.0,
-        "max_i_type": "Tips",
-        "max_e_type": "Food",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9894.0,
+        "max_e": -9946.0,
+        "avg_d_i": 3108.31,
+        "avg_d_e": -3003.17,
+        "avg_d_t": 105.13,
+        "avg_m_i": 94544.33,
+        "avg_m_e": -91346.5,
+        "avg_m_t": 3197.83,
+        "i_year": 1134532.0,
+        "e_year": -1096158.0,
+        "total": 38374.0,
+        "max_i_type": "Other",
+        "max_e_type": "Groceries",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2005": {
-        "max_i": 9982.0,
-        "max_e": -9998.0,
-        "avg_d_i": 3506.5,
-        "avg_d_e": -2815.68,
-        "avg_d_t": 690.81,
-        "avg_m_i": 106656.0,
-        "avg_m_e": -85643.75,
-        "avg_m_t": 21012.25,
-        "i_year": 1279872.0,
-        "e_year": -1027725.0,
-        "total": 252147.0,
-        "max_i_type": "Salary",
-        "max_e_type": "Groceries",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9917.0,
+        "max_e": -9994.0,
+        "avg_d_i": 3316.83,
+        "avg_d_e": -3032.12,
+        "avg_d_t": 284.72,
+        "avg_m_i": 100887.0,
+        "avg_m_e": -92226.92,
+        "avg_m_t": 8660.08,
+        "i_year": 1210644.0,
+        "e_year": -1106723.0,
+        "total": 103921.0,
+        "max_i_type": "Tips",
+        "max_e_type": "Subscriptions",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2006": {
-        "max_i": 9905.0,
-        "max_e": -9989.0,
-        "avg_d_i": 2978.11,
-        "avg_d_e": -3068.39,
-        "avg_d_t": -90.28,
-        "avg_m_i": 90584.08,
-        "avg_m_e": -93330.25,
-        "avg_m_t": -2746.17,
-        "i_year": 1087009.0,
-        "e_year": -1119963.0,
-        "total": -32954.0,
+        "max_i": 9865.0,
+        "max_e": -9993.0,
+        "avg_d_i": 2618.1,
+        "avg_d_e": -2736.63,
+        "avg_d_t": -118.53,
+        "avg_m_i": 79633.83,
+        "avg_m_e": -83239.17,
+        "avg_m_t": -3605.33,
+        "i_year": 955606.0,
+        "e_year": -998870.0,
+        "total": -43264.0,
         "max_i_type": "Tips",
         "max_e_type": "Groceries",
-        "best_m": "June",
-        "worst_m": "April",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2007": {
-        "max_i": 9986.0,
-        "max_e": -9979.0,
-        "avg_d_i": 3347.65,
-        "avg_d_e": -2982.5,
-        "avg_d_t": 365.14,
-        "avg_m_i": 101824.25,
-        "avg_m_e": -90717.83,
-        "avg_m_t": 11106.42,
-        "i_year": 1221891.0,
-        "e_year": -1088614.0,
-        "total": 133277.0,
-        "max_i_type": "Other",
-        "max_e_type": "Subscriptions",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9989.0,
+        "max_e": -9986.0,
+        "avg_d_i": 3233.36,
+        "avg_d_e": -3184.5,
+        "avg_d_t": 48.87,
+        "avg_m_i": 98348.08,
+        "avg_m_e": -96861.75,
+        "avg_m_t": 1486.33,
+        "i_year": 1180177.0,
+        "e_year": -1162341.0,
+        "total": 17836.0,
+        "max_i_type": "Salary",
+        "max_e_type": "Leisure",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2008": {
-        "max_i": 9937.0,
-        "max_e": -9710.0,
-        "avg_d_i": 3086.05,
-        "avg_d_e": -2923.47,
-        "avg_d_t": 162.58,
-        "avg_m_i": 93867.42,
-        "avg_m_e": -88922.33,
-        "avg_m_t": 4945.08,
-        "i_year": 1126409.0,
-        "e_year": -1067068.0,
-        "total": 59341.0,
-        "max_i_type": "Other",
-        "max_e_type": "Food",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9997.0,
+        "max_e": -9989.0,
+        "avg_d_i": 3031.08,
+        "avg_d_e": -3073.27,
+        "avg_d_t": -42.19,
+        "avg_m_i": 92195.33,
+        "avg_m_e": -93478.5,
+        "avg_m_t": -1283.17,
+        "i_year": 1106344.0,
+        "e_year": -1121742.0,
+        "total": -15398.0,
+        "max_i_type": "Tips",
+        "max_e_type": "Subscriptions",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2009": {
-        "max_i": 9914.0,
-        "max_e": -9994.0,
-        "avg_d_i": 3367.61,
-        "avg_d_e": -2916.85,
-        "avg_d_t": 450.76,
-        "avg_m_i": 102431.5,
-        "avg_m_e": -88720.75,
-        "avg_m_t": 13710.75,
-        "i_year": 1229178.0,
-        "e_year": -1064649.0,
-        "total": 164529.0,
-        "max_i_type": "Salary",
-        "max_e_type": "Subscriptions",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9935.0,
+        "max_e": -9986.0,
+        "avg_d_i": 3467.59,
+        "avg_d_e": -2934.22,
+        "avg_d_t": 533.36,
+        "avg_m_i": 105472.42,
+        "avg_m_e": -89249.33,
+        "avg_m_t": 16223.08,
+        "i_year": 1265669.0,
+        "e_year": -1070992.0,
+        "total": 194677.0,
+        "max_i_type": "Other",
+        "max_e_type": "Investments",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2010": {
-        "max_i": 9997.0,
-        "max_e": -9977.0,
-        "avg_d_i": 3175.78,
-        "avg_d_e": -2882.38,
-        "avg_d_t": 293.4,
-        "avg_m_i": 96596.67,
-        "avg_m_e": -87672.42,
-        "avg_m_t": 8924.25,
-        "i_year": 1159160.0,
-        "e_year": -1052069.0,
-        "total": 107091.0,
-        "max_i_type": "Tips",
-        "max_e_type": "Subscriptions",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9937.0,
+        "max_e": -9946.0,
+        "avg_d_i": 2926.96,
+        "avg_d_e": -2840.05,
+        "avg_d_t": 86.92,
+        "avg_m_i": 89028.42,
+        "avg_m_e": -86384.75,
+        "avg_m_t": 2643.67,
+        "i_year": 1068341.0,
+        "e_year": -1036617.0,
+        "total": 31724.0,
+        "max_i_type": "Salary",
+        "max_e_type": "Food",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2011": {
-        "max_i": 9962.0,
-        "max_e": -9944.0,
-        "avg_d_i": 3325.6,
-        "avg_d_e": -3032.95,
-        "avg_d_t": 292.65,
-        "avg_m_i": 101153.75,
-        "avg_m_e": -92252.33,
-        "avg_m_t": 8901.42,
-        "i_year": 1213845.0,
-        "e_year": -1107028.0,
-        "total": 106817.0,
-        "max_i_type": "Tips",
-        "max_e_type": "Food",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9974.0,
+        "max_e": -9942.0,
+        "avg_d_i": 3307.36,
+        "avg_d_e": -3014.09,
+        "avg_d_t": 293.27,
+        "avg_m_i": 100598.75,
+        "avg_m_e": -91678.58,
+        "avg_m_t": 8920.17,
+        "i_year": 1207185.0,
+        "e_year": -1100143.0,
+        "total": 107042.0,
+        "max_i_type": "Other",
+        "max_e_type": "Subscriptions",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2012": {
-        "max_i": 9967.0,
-        "max_e": -9908.0,
-        "avg_d_i": 2734.94,
-        "avg_d_e": -3139.82,
-        "avg_d_t": -404.88,
-        "avg_m_i": 83187.67,
-        "avg_m_e": -95502.83,
-        "avg_m_t": -12315.17,
-        "i_year": 998252.0,
-        "e_year": -1146034.0,
-        "total": -147782.0,
-        "max_i_type": "Salary",
+        "max_i": 9991.0,
+        "max_e": -9934.0,
+        "avg_d_i": 3292.37,
+        "avg_d_e": -3140.88,
+        "avg_d_t": 151.49,
+        "avg_m_i": 100143.0,
+        "avg_m_e": -95535.08,
+        "avg_m_t": 4607.92,
+        "i_year": 1201716.0,
+        "e_year": -1146421.0,
+        "total": 55295.0,
+        "max_i_type": "Tips",
         "max_e_type": "Health Insurance",
-        "best_m": "June",
-        "worst_m": "April",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2013": {
-        "max_i": 9902.0,
-        "max_e": -9924.0,
-        "avg_d_i": 2745.64,
-        "avg_d_e": -2648.62,
-        "avg_d_t": 97.02,
-        "avg_m_i": 83513.17,
-        "avg_m_e": -80562.08,
-        "avg_m_t": 2951.08,
-        "i_year": 1002158.0,
-        "e_year": -966745.0,
-        "total": 35413.0,
-        "max_i_type": "Other",
-        "max_e_type": "Food",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9985.0,
+        "max_e": -9989.0,
+        "avg_d_i": 2934.12,
+        "avg_d_e": -2728.12,
+        "avg_d_t": 206.0,
+        "avg_m_i": 89246.0,
+        "avg_m_e": -82980.17,
+        "avg_m_t": 6265.83,
+        "i_year": 1070952.0,
+        "e_year": -995762.0,
+        "total": 75190.0,
+        "max_i_type": "Tips",
+        "max_e_type": "Subscriptions",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2014": {
-        "max_i": 9958.0,
-        "max_e": -9960.0,
-        "avg_d_i": 3029.69,
-        "avg_d_e": -3207.85,
-        "avg_d_t": -178.17,
-        "avg_m_i": 92153.0,
-        "avg_m_e": -97572.25,
-        "avg_m_t": -5419.25,
-        "i_year": 1105836.0,
-        "e_year": -1170867.0,
-        "total": -65031.0,
+        "max_i": 9876.0,
+        "max_e": -9948.0,
+        "avg_d_i": 2843.49,
+        "avg_d_e": -3258.31,
+        "avg_d_t": -414.82,
+        "avg_m_i": 86489.58,
+        "avg_m_e": -99106.92,
+        "avg_m_t": -12617.33,
+        "i_year": 1037875.0,
+        "e_year": -1189283.0,
+        "total": -151408.0,
         "max_i_type": "Salary",
-        "max_e_type": "Health Insurance",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_e_type": "Leisure",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2015": {
-        "max_i": 9952.0,
-        "max_e": -9984.0,
-        "avg_d_i": 3071.18,
-        "avg_d_e": -3175.04,
-        "avg_d_t": -103.86,
-        "avg_m_i": 93415.08,
-        "avg_m_e": -96574.08,
-        "avg_m_t": -3159.0,
-        "i_year": 1120981.0,
-        "e_year": -1158889.0,
-        "total": -37908.0,
-        "max_i_type": "Salary",
-        "max_e_type": "Subscriptions",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9948.0,
+        "max_e": -9925.0,
+        "avg_d_i": 3259.01,
+        "avg_d_e": -3163.72,
+        "avg_d_t": 95.29,
+        "avg_m_i": 99128.08,
+        "avg_m_e": -96229.75,
+        "avg_m_t": 2898.33,
+        "i_year": 1189537.0,
+        "e_year": -1154757.0,
+        "total": 34780.0,
+        "max_i_type": "Tips",
+        "max_e_type": "Investments",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2016": {
-        "max_i": 9997.0,
-        "max_e": -9991.0,
-        "avg_d_i": 2830.67,
-        "avg_d_e": -2980.4,
-        "avg_d_t": -149.73,
-        "avg_m_i": 86099.5,
-        "avg_m_e": -90653.75,
-        "avg_m_t": -4554.25,
-        "i_year": 1033194.0,
-        "e_year": -1087845.0,
-        "total": -54651.0,
-        "max_i_type": "Other",
-        "max_e_type": "Subscriptions",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9905.0,
+        "max_e": -9987.0,
+        "avg_d_i": 2965.16,
+        "avg_d_e": -3401.72,
+        "avg_d_t": -436.57,
+        "avg_m_i": 90190.17,
+        "avg_m_e": -103469.08,
+        "avg_m_t": -13278.92,
+        "i_year": 1082282.0,
+        "e_year": -1241629.0,
+        "total": -159347.0,
+        "max_i_type": "Tips",
+        "max_e_type": "Health Insurance",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2017": {
-        "max_i": 9875.0,
-        "max_e": -9960.0,
-        "avg_d_i": 2958.15,
-        "avg_d_e": -3008.05,
-        "avg_d_t": -49.9,
-        "avg_m_i": 89977.17,
-        "avg_m_e": -91494.83,
-        "avg_m_t": -1517.67,
-        "i_year": 1079726.0,
-        "e_year": -1097938.0,
-        "total": -18212.0,
-        "max_i_type": "Tips",
-        "max_e_type": "Groceries",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9994.0,
+        "max_e": -9995.0,
+        "avg_d_i": 3164.82,
+        "avg_d_e": -3055.22,
+        "avg_d_t": 109.6,
+        "avg_m_i": 96263.25,
+        "avg_m_e": -92929.67,
+        "avg_m_t": 3333.58,
+        "i_year": 1155159.0,
+        "e_year": -1115156.0,
+        "total": 40003.0,
+        "max_i_type": "Salary",
+        "max_e_type": "Investments",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2018": {
-        "max_i": 9982.0,
-        "max_e": -9953.0,
-        "avg_d_i": 3133.52,
-        "avg_d_e": -3302.95,
-        "avg_d_t": -169.44,
-        "avg_m_i": 95311.08,
-        "avg_m_e": -100464.83,
-        "avg_m_t": -5153.75,
-        "i_year": 1143733.0,
-        "e_year": -1205578.0,
-        "total": -61845.0,
-        "max_i_type": "Tips",
-        "max_e_type": "Health Insurance",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9874.0,
+        "max_e": -9906.0,
+        "avg_d_i": 3158.37,
+        "avg_d_e": -3246.76,
+        "avg_d_t": -88.39,
+        "avg_m_i": 96067.08,
+        "avg_m_e": -98755.58,
+        "avg_m_t": -2688.5,
+        "i_year": 1152805.0,
+        "e_year": -1185067.0,
+        "total": -32262.0,
+        "max_i_type": "Other",
+        "max_e_type": "Subscriptions",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2019": {
-        "max_i": 9914.0,
-        "max_e": -9839.0,
-        "avg_d_i": 2996.09,
-        "avg_d_e": -2949.52,
-        "avg_d_t": 46.57,
-        "avg_m_i": 91131.17,
-        "avg_m_e": -89714.67,
-        "avg_m_t": 1416.5,
-        "i_year": 1093574.0,
-        "e_year": -1076576.0,
-        "total": 16998.0,
-        "max_i_type": "Other",
-        "max_e_type": "Health Insurance",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_i": 9983.0,
+        "max_e": -9994.0,
+        "avg_d_i": 3209.86,
+        "avg_d_e": -3086.38,
+        "avg_d_t": 123.48,
+        "avg_m_i": 97633.17,
+        "avg_m_e": -93877.42,
+        "avg_m_t": 3755.75,
+        "i_year": 1171598.0,
+        "e_year": -1126529.0,
+        "total": 45069.0,
+        "max_i_type": "Salary",
+        "max_e_type": "Leisure",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2020": {
-        "max_i": 9930.0,
-        "max_e": -9867.0,
-        "avg_d_i": 3091.45,
-        "avg_d_e": -2772.73,
-        "avg_d_t": 318.72,
-        "avg_m_i": 94031.67,
-        "avg_m_e": -84337.33,
-        "avg_m_t": 9694.33,
-        "i_year": 1128380.0,
-        "e_year": -1012048.0,
-        "total": 116332.0,
+        "max_i": 9963.0,
+        "max_e": -9996.0,
+        "avg_d_i": 3084.47,
+        "avg_d_e": -2719.88,
+        "avg_d_t": 364.59,
+        "avg_m_i": 93819.33,
+        "avg_m_e": -82729.83,
+        "avg_m_t": 11089.5,
+        "i_year": 1125832.0,
+        "e_year": -992758.0,
+        "total": 133074.0,
         "max_i_type": "Tips",
-        "max_e_type": "Food",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_e_type": "Health Insurance",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2021": {
-        "max_i": 9976.0,
-        "max_e": -9965.0,
-        "avg_d_i": 3445.96,
-        "avg_d_e": -3038.38,
-        "avg_d_t": 407.59,
-        "avg_m_i": 104814.67,
-        "avg_m_e": -92417.25,
-        "avg_m_t": 12397.42,
-        "i_year": 1257776.0,
-        "e_year": -1109007.0,
-        "total": 148769.0,
+        "max_i": 9982.0,
+        "max_e": -10000.0,
+        "avg_d_i": 2838.57,
+        "avg_d_e": -3026.94,
+        "avg_d_t": -188.37,
+        "avg_m_i": 86339.83,
+        "avg_m_e": -92069.5,
+        "avg_m_t": -5729.67,
+        "i_year": 1036078.0,
+        "e_year": -1104834.0,
+        "total": -68756.0,
         "max_i_type": "Salary",
-        "max_e_type": "Investments",
-        "best_m": "June",
-        "worst_m": "April",
+        "max_e_type": "Leisure",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             },
             "August": {
-                "total": 177981.0,
-                "e_month": 2255600.0,
-                "i_month": -2077619.0
+                "total": -107669.0,
+                "e_month": 2084808.0,
+                "i_month": -2192477.0
             },
             "September": {
-                "total": -118915.0,
-                "e_month": 1993023.0,
-                "i_month": -2111938.0
+                "total": 279927.0,
+                "e_month": 2120543.0,
+                "i_month": -1840616.0
             },
             "October": {
-                "total": 126541.0,
-                "e_month": 2177786.0,
-                "i_month": -2051245.0
+                "total": 131742.0,
+                "e_month": 2133473.0,
+                "i_month": -2001731.0
             },
             "November": {
-                "total": 166414.0,
-                "e_month": 2011264.0,
-                "i_month": -1844850.0
+                "total": -103862.0,
+                "e_month": 1903077.0,
+                "i_month": -2006939.0
             },
             "December": {
-                "total": 73127.0,
-                "e_month": 2283998.0,
-                "i_month": -2210871.0
+                "total": -135266.0,
+                "e_month": 2115732.0,
+                "i_month": -2250998.0
             }
         }
     },
     "2022": {
-        "max_i": 9874.0,
-        "max_e": -9938.0,
-        "avg_d_i": 3420.05,
-        "avg_d_e": -3220.44,
-        "avg_d_t": 199.61,
-        "avg_m_i": 98693.0,
-        "avg_m_e": -92932.71,
-        "avg_m_t": 5760.29,
-        "i_year": 690851.0,
-        "e_year": -650529.0,
-        "total": 40322.0,
+        "max_i": 9867.0,
+        "max_e": -9960.0,
+        "avg_d_i": 2507.24,
+        "avg_d_e": -3194.66,
+        "avg_d_t": -687.42,
+        "avg_m_i": 72351.86,
+        "avg_m_e": -92188.86,
+        "avg_m_t": -19837.0,
+        "i_year": 506463.0,
+        "e_year": -645322.0,
+        "total": -138859.0,
         "max_i_type": "Tips",
         "max_e_type": "Leisure",
-        "best_m": "June",
-        "worst_m": "April",
+        "best_m": "September",
+        "worst_m": "June",
         "months": {
             "January": {
-                "total": 17339.0,
-                "e_month": 2046509.0,
-                "i_month": -2029170.0
+                "total": -162361.0,
+                "e_month": 2091249.0,
+                "i_month": -2253610.0
             },
             "February": {
-                "total": 42573.0,
-                "e_month": 2045751.0,
-                "i_month": -2003178.0
+                "total": 35008.0,
+                "e_month": 1978339.0,
+                "i_month": -1943331.0
             },
             "March": {
-                "total": -4132.0,
-                "e_month": 2212356.0,
-                "i_month": -2216488.0
+                "total": -110166.0,
+                "e_month": 2039934.0,
+                "i_month": -2150100.0
             },
             "April": {
-                "total": -156328.0,
-                "e_month": 2047854.0,
-                "i_month": -2204182.0
+                "total": -160406.0,
+                "e_month": 1950152.0,
+                "i_month": -2110558.0
             },
             "May": {
-                "total": -41850.0,
-                "e_month": 2002775.0,
-                "i_month": -2044625.0
+                "total": 243710.0,
+                "e_month": 2530789.0,
+                "i_month": -2287079.0
             },
             "June": {
-                "total": 297819.0,
-                "e_month": 2224060.0,
-                "i_month": -1926241.0
+                "total": -198184.0,
+                "e_month": 2038276.0,
+                "i_month": -2236460.0
             },
             "July": {
-                "total": 221294.0,
-                "e_month": 2182930.0,
-                "i_month": -1961636.0
+                "total": 150106.0,
+                "e_month": 2169315.0,
+                "i_month": -2019209.0
             }
         }
     }

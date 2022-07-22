@@ -59,25 +59,26 @@ class Budget:
                             sclass = self.itypes[int(index)-1]
                         else:
                             sclass = self.etypes[int(index)-1]
+                        break
                     except:
                         print("Please enter a correct class.")
                         
-                        if amount > 0:
-                            for i in range(len(self.itypes)):
-                                print(i + 1,":",self.itypes[i])   
-                            index = input("Please select a type: ")       
-                            try:
-                                sclass = self.itypes[int(index)-1]
-                            except:
-                                continue
-                        else:
-                            for i in range(len(self.etypes)):
-                                print(i + 1,":",self.etypes[i])
-                            index = input("Please select a type: ")
-                            try:
-                                sclass = self.etypes[int(index)-1]
-                            except:
-                                continue
+                if amount > 0:
+                    for i in range(len(self.itypes)):
+                        print(i + 1,":",self.itypes[i])   
+                    index = input("Please select a type: ")       
+                    try:
+                        sclass = self.itypes[int(index)-1]
+                    except:
+                        continue
+                else:
+                    for i in range(len(self.etypes)):
+                        print(i + 1,":",self.etypes[i])
+                    index = input("Please select a type: ")
+                    try:
+                        sclass = self.etypes[int(index)-1]
+                    except:
+                        continue
                 break
             
             # date input
