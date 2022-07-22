@@ -9,7 +9,7 @@ class Budget:
     # constructor
     def __init__(self) -> None:
         # check if there is a budget
-        check_file = Path("data/budget.csv")
+        check_file = Path("../data/budget.csv")
         if check_file.is_file():
             self.tally = pd.read_csv(check_file)
         else:
