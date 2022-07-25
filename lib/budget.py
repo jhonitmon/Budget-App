@@ -265,23 +265,25 @@ class Budget:
                     "total": iter_list.amount.sum(),
                     "e_month": iter_incomes.amount.sum(),
                     "i_month": iter_expenses.amount.sum()}
-            year_dict[str(i)]["max_i"] = max_iitem.amount
-            year_dict[str(i)]["max_e"] = max_eitem.amount
-            year_dict[str(i)]["max_i_type"] = max_iitem.type
-            year_dict[str(i)]["max_e_type"] = max_eitem.type
-            year_dict[str(i)]["i_year"] = year_incomes.amount.sum()
-            year_dict[str(i)]["e_year"] = year_expenses.amount.sum()
-            year_dict[str(i)]["total"] = year_items.amount.sum()
-            year_dict[str(i)]["avg_d_t"] = round(avg_d_t,2)
-            year_dict[str(i)]["avg_d_i"] = round(avg_d_i,2)
-            year_dict[str(i)]["avg_d_e"] = round(avg_d_e,2)
-            year_dict[str(i)]["avg_m_t"] = round(avg_m_t,2)
-            year_dict[str(i)]["avg_m_i"] = round(avg_m_i,2)
-            year_dict[str(i)]["avg_m_e"] = round(avg_m_e,2)
             best_m = month_group[month_group.amount == month_group.amount.max()].month.iloc[0]
             worst_m = month_group[month_group.amount == month_group.amount.min()].month.iloc[0]
-            year_dict[str(i)]["best_m"] = month_names[best_m]
-            year_dict[str(i)]["worst_m"] = month_names[worst_m]
+            year_dict[str(i)] = {
+                "max_i" : max_iitem.amount,
+                "max_e" : max_eitem.amount,
+                "max_i_type": max_iitem.type,
+                "max_e_type" : max_eitem.type,
+                "i_year" : year_incomes.amount.sum(),
+                "e_year" : year_expenses.amount.sum(),
+                "total" : year_items.amount.sum(),
+                "avg_d_t" : round(avg_d_t,2),
+                "avg_d_i" : round(avg_d_i,2),
+                "avg_d_e" : round(avg_d_e,2),
+                "avg_m_t" : round(avg_m_t,2),
+                "avg_m_i" : round(avg_m_i,2),
+                "avg_m_e" : round(avg_m_e,2),
+                "best_m" : month_names[best_m],
+                "worst_m" : month_names[worst_m]
+            }
         
         return year_dict
 
