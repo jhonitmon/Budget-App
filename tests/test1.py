@@ -39,8 +39,8 @@ print(budget.sum_year("2021"))
 print(budget.sum_type(1,1))
 dict = budget.summarize()
 # save data in csv
-budget.tally.to_csv("data/budget.csv", index=False)
+budget.save_data_csv()
 
-# create json of summary
-with open("data/jsontest.json","w", encoding="utf-8") as f:
-    json.dump(dict,f,ensure_ascii=False, indent= 4)
+# # create json of summary
+# with open("data/jsontest.json","w", encoding="utf-8") as f:
+#     json.dump(dict,f,ensure_ascii=False, indent= 4)
