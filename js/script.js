@@ -20,3 +20,15 @@ tabsContainer.addEventListener("click", function (e) {
     .querySelector(`.calculation--active--${clicked.dataset.tab}`)
     .classList.remove("calculation--active");
 });
+
+// API CALL
+const response = async function () {
+  try {
+    const res = await fetch("../data/jsonactual.json");
+
+    const data = await res.json();
+  } catch (err) {
+    console.error(`${err}☹`);
+  }
+};
+response();
