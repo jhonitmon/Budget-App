@@ -12,12 +12,3 @@ from pprint import pprint
 budget = budget.Budget()
 budget.send_actual()
 pprint(budget.summarize())
-# budget.add_data()
-# dict = budget.summarize()
-
-# # save data in csv
-# budget.tally.to_csv("data/budget.csv", index=False)
-
-# # create json of summary
-# with open("data/jsontest.json","w", encoding="utf-8") as f:
-#     json.dump(dict,f,ensure_ascii=False, indent= 4)

@@ -1,149 +1,192 @@
-{
-    "July": {
-        "4874": {
-            "amount": 5415.0,
-            "type": "Other",
-            "date": "2022.07.02"
-        },
-        "7744": {
-            "amount": 428.0,
-            "type": "Other",
-            "date": "2022.07.04"
-        },
-        "6853": {
-            "amount": -3715.0,
-            "type": "Food",
-            "date": "2022.07.04"
-        },
-        "6892": {
-            "amount": -8841.0,
-            "type": "Investments",
-            "date": "2022.07.05"
-        },
-        "3803": {
-            "amount": -9764.0,
-            "type": "Groceries",
-            "date": "2022.07.05"
-        },
-        "9875": {
-            "amount": 6363.0,
-            "type": "Salary",
-            "date": "2022.07.06"
-        },
-        "9576": {
-            "amount": -1554.0,
-            "type": "Health Insurance",
-            "date": "2022.07.07"
-        },
-        "3262": {
-            "amount": -5264.0,
-            "type": "Groceries",
-            "date": "2022.07.07"
-        },
-        "320": {
-            "amount": -8021.0,
-            "type": "Health Insurance",
-            "date": "2022.07.08"
-        },
-        "9849": {
-            "amount": -5315.0,
-            "type": "Leisure",
-            "date": "2022.07.10"
-        },
-        "8962": {
-            "amount": -7442.0,
-            "type": "Food",
-            "date": "2022.07.10"
-        },
-        "6331": {
-            "amount": 4802.0,
-            "type": "Other",
-            "date": "2022.07.11"
-        },
-        "7425": {
-            "amount": -6952.0,
-            "type": "Groceries",
-            "date": "2022.07.12"
-        },
-        "5200": {
-            "amount": 5435.0,
-            "type": "Tips",
-            "date": "2022.07.13"
-        },
-        "4960": {
-            "amount": 6742.0,
-            "type": "Salary",
-            "date": "2022.07.13"
-        },
-        "5908": {
-            "amount": 2211.0,
-            "type": "Tips",
-            "date": "2022.07.14"
-        },
-        "8354": {
-            "amount": -3244.0,
-            "type": "Food",
-            "date": "2022.07.15"
-        },
-        "7271": {
-            "amount": -5467.0,
-            "type": "Leisure",
-            "date": "2022.07.15"
-        },
-        "9482": {
-            "amount": 5425.0,
-            "type": "Tips",
-            "date": "2022.07.15"
-        },
-        "9173": {
-            "amount": 7637.0,
-            "type": "Other",
-            "date": "2022.07.15"
-        },
-        "8262": {
-            "amount": -2103.0,
-            "type": "Leisure",
-            "date": "2022.07.16"
-        },
-        "6037": {
-            "amount": 2737.0,
-            "type": "Salary",
-            "date": "2022.07.16"
-        },
-        "3308": {
-            "amount": 1877.0,
-            "type": "Tips",
-            "date": "2022.07.17"
-        },
-        "4319": {
-            "amount": 3519.0,
-            "type": "Salary",
-            "date": "2022.07.18"
-        },
-        "9601": {
-            "amount": 1066.0,
-            "type": "Other",
-            "date": "2022.07.20"
-        },
-        "748": {
-            "amount": -5906.0,
-            "type": "Leisure",
-            "date": "2022.07.21"
-        },
-        "5238": {
-            "amount": 5702.0,
-            "type": "Salary",
-            "date": "2022.07.23"
-        },
-        "1178": {
-            "amount": 4866.0,
-            "type": "Salary",
-            "date": "2022.07.24"
-        },
-        "7986": {
-            "amount": -8512.0,
-            "type": "Groceries",
-            "date": "2022.07.25"
-        }
+[
+    {
+        "id": "9103",
+        "amount": 3829,
+        "type": "Salary",
+        "date": "2022.08.02",
+        "day": 2,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "6671",
+        "amount": -3388,
+        "type": "Subscriptions",
+        "date": "2022.08.03",
+        "day": 3,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "1391",
+        "amount": -7396,
+        "type": "Leisure",
+        "date": "2022.08.03",
+        "day": 3,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "2033",
+        "amount": 7586,
+        "type": "Salary",
+        "date": "2022.08.04",
+        "day": 4,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "4188",
+        "amount": 3931,
+        "type": "Salary",
+        "date": "2022.08.04",
+        "day": 4,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "6208",
+        "amount": -2085,
+        "type": "Investments",
+        "date": "2022.08.05",
+        "day": 5,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "984",
+        "amount": 5018,
+        "type": "Other",
+        "date": "2022.08.05",
+        "day": 5,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "1685",
+        "amount": 8848,
+        "type": "Salary",
+        "date": "2022.08.05",
+        "day": 5,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "4535",
+        "amount": 5217,
+        "type": "Tips",
+        "date": "2022.08.06",
+        "day": 6,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "5764",
+        "amount": -1183,
+        "type": "Health Insurance",
+        "date": "2022.08.07",
+        "day": 7,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "9290",
+        "amount": -7361,
+        "type": "Investments",
+        "date": "2022.08.09",
+        "day": 9,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "3483",
+        "amount": 6689,
+        "type": "Tips",
+        "date": "2022.08.09",
+        "day": 9,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "7446",
+        "amount": -4842,
+        "type": "Food",
+        "date": "2022.08.10",
+        "day": 10,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "1631",
+        "amount": 3603,
+        "type": "Other",
+        "date": "2022.08.10",
+        "day": 10,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "4545",
+        "amount": -4805,
+        "type": "Food",
+        "date": "2022.08.11",
+        "day": 11,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "5321",
+        "amount": 5476,
+        "type": "Salary",
+        "date": "2022.08.12",
+        "day": 12,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "4309",
+        "amount": 2702,
+        "type": "Tips",
+        "date": "2022.08.12",
+        "day": 12,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "7879",
+        "amount": 9591,
+        "type": "Other",
+        "date": "2022.08.15",
+        "day": 15,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
+    },
+    {
+        "id": "4510",
+        "amount": 3021,
+        "type": "Tips",
+        "date": "2022.08.15",
+        "day": 15,
+        "long_month": "August",
+        "short_month": 8,
+        "year": 2022
     }
-}
+]
