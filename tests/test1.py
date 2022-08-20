@@ -35,8 +35,8 @@ for i in range(1,10000):
     rdate = rdate.strftime("%d.%m.%Y")
     budget.add_data(ref=rref,amount=ramount,type=rtype,date = rdate,skip=1)
 
-print(budget.sum_year("2021"))
-print(budget.sum_type(1,1))
+# print(budget.sum_year("2021"))
+# print(budget.sum_type(1,1))
 dict = budget.summarize()
 # save data in csv
 budget.save_data_csv()

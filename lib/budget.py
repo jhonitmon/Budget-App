@@ -296,7 +296,6 @@ class Budget:
         actual_df = self.tally.copy()
         actual_df = actual_df[actual_df["date"].dt.year == self.date_today.year]
         actual_df = actual_df[actual_df["date"].dt.month == self.date_today.month]
-        month_today = self.date_today.strftime("%B")
         actual_dict = list()
         n_items = len(actual_df.index)
         for i in range(n_items):
@@ -310,6 +309,6 @@ class Budget:
                 "short_month": int(actual_df.iloc[i].date.strftime("%m")),
                 "year": int(actual_df.iloc[i].date.strftime("%Y"))
                 }) 
-        pprint(actual_dict)
+        # pprint(actual_dict)
         with open("data/jsonactual.json","w", encoding="utf-8") as f:
             json.dump(actual_dict,f , indent= 4)
